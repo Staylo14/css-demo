@@ -3,6 +3,19 @@ body{
   font-weight: 400;
   font-style: normal;font-family: ;
 }
+p{
+    font-weight: 800;
+    font-size:18px;
+}
+h1{
+    fontsize: 35px
+    color:brown;
+    font-weight: 900;
+}
+a{
+    color:black
+
+}
 
 .box{
     background-color:rgb(247, 247, 246);
@@ -35,4 +48,12 @@ body{
     border:none;
     display:block;
     background-size: cover;
+}
+.box.hoverImage:hover{
+    background-color: blue;
+    background-image: url("/images/brownies3.jpg") ;
+    background-size: cover;
+}
+.box.third:hover{
+    transform:
 }
