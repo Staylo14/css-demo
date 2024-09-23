@@ -55,5 +55,15 @@ a{
     background-size: cover;
 }
 .box.third:hover{
-    transform:
+    transform: rotate(25deg);
+}
+#final{
+    color:aqua
+}
+#final{
+    color:blueviolet
+}
+.last{
+    ccolor:red
+    padding: 10px 3px 4px 1px;
 }
